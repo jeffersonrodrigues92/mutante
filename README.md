@@ -12,7 +12,7 @@ Humano é mutante baseado em sua sequência de DNA.
 - Ambiente 100% serverless.
 - Escabilidade Contínua, sem provisionar ou gerenciar servidores.
 - Monitorado via CloudWatch (Dashboard construído na AWS).
-- Altamente perfomático com a média de response time de 137ms para busca.
+- Altamente perfomático com a média de response time de 210ms para busca.
 
 ## TECNOLOGIAS
 - Java 8
