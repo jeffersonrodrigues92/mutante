@@ -1,4 +1,4 @@
-## MUTANTE - MERCADO LIVRE
+## MUTANTE
 
 Magneto quer recrutar tantos mutantes para lutar contra os X-Men.
 
